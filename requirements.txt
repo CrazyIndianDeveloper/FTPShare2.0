@@ -1,0 +1,10 @@
+# For Windows
+pyftpdlib
+
+# For Linux
+sudo apt install python3-pyftpdlib
+sudo apt install python3-tk
+
+# Official Website 
+https://pypi.org/project/pyftpdlib/
+
