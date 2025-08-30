@@ -29,5 +29,8 @@ sudo apt install python3-tk
 - Some times on Linux Machine it takes too much time to close thread and freeze the application in that case just close the terminal or `ctrl+c`.
 
 
-<p style="text-align: center">Made With ❤️ In India</p>
+<div align="center">
+
+# Made With ❤️ In India
+</div>
     
